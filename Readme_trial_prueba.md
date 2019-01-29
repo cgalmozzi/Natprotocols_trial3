@@ -19,7 +19,7 @@ Analysis of the generated SeRP data starts by employing publicly available as we
 
 # Scripts
 
-- [Scripts](./Scripts): Scripts.
+- [Scripts](./Scripts)
 
 ```
 Supplementary script A (Ribosome_Assignment).
@@ -34,6 +34,8 @@ Supplementary script H (Build_references)
 ```
 
 # Reference files
+
+- [Reference files](./Reference files)
 
 ```
 
@@ -249,7 +251,7 @@ text file containing all genes with additional information in tab separated form
 
 # License
 
-- [License](./License)
+[License.bib](./License.bib).
 
 GNU GENERAL PUBLIC LICENSE
 Version 3, 29 June 2007
