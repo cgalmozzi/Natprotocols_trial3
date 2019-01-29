@@ -35,7 +35,7 @@ Supplementary script H (Build_references)
 
 # Reference files
 
-- [Reference files](./Reference files)
+- [Reference](./Reference)
 
 ```
 
@@ -77,6 +77,8 @@ The Python installation should take approximately 1-2 hours to install on a reco
 
 
 # Demo
+
+- [Demo](./Demo)
 
 ## Execution
 
@@ -251,7 +253,7 @@ text file containing all genes with additional information in tab separated form
 
 # License
 
-[License.bib](./License.bib).
+[License.md](./License.md).
 
 GNU GENERAL PUBLIC LICENSE
 Version 3, 29 June 2007
