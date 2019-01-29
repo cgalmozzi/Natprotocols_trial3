@@ -19,6 +19,8 @@ Analysis of the generated SeRP data starts by employing publicly available as we
 
 # Scripts
 
+- [Scripts](./Scripts): Scripts.
+
 ```
 Supplementary script A (Ribosome_Assignment).
 Supplementary script B (3_nt_Periodicity).
@@ -246,6 +248,8 @@ text file containing all genes with additional information in tab separated form
 (3)	Van Rossum, G. & de Boer, J. Interactively Testing Remote Servers Using the Python Programming Language, CWI Quarterly, 4, Issue 4, 283–303 (1991).
 
 # License
+
+- [License](./License)
 
 GNU GENERAL PUBLIC LICENSE
 Version 3, 29 June 2007
